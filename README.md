@@ -14,12 +14,12 @@ The latest APK file is available on the [releases page](https://github.com/cemtu
     <tr>
         <td>
             <p align="center">
-                <img alt="App demo" styl="max-widht: 380px" src="./docs/app_demo.gif" />
+                <img alt="App demo" style="max-width: 380px" src="./docs/app_demo.gif" />
             </p>
         </td>
         <td>
             <p align="center">
-                <img alt="App demo in dark mode" styl="max-widht: 380px" src="./docs/app_demo_dark.gif" />
+                <img alt="App demo in dark mode" style="max-width: 380px" src="./docs/app_demo_dark.gif" />
             </p>
         </td>
     </tr>
