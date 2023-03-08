@@ -1,5 +1,5 @@
 <h1 align="center">
-    Android The Movie Database Showcase
+    "The Movie Database" Android Showcase
     <br />
     <a href="https://github.com/cemtuver/android-movies/releases">
         <img src="https://img.shields.io/github/v/release/cemtuver/android-movies?include_prereleases&label=version">
@@ -9,6 +9,21 @@
 Want to try it out?
 <br />
 The latest APK file is available on the [releases page](https://github.com/cemtuver/android-movies/releases).
+
+<table>
+    <tr>
+        <td>
+            <p align="center">
+                <img alt="App demo" styl="max-widht: 380px" src="./docs/app_demo.gif" />
+            </p>
+        </td>
+        <td>
+            <p align="center">
+                <img alt="App demo in dark mode" styl="max-widht: 380px" src="./docs/app_demo_dark.gif" />
+            </p>
+        </td>
+    </tr>
+</table>
 
 ## Features
 - List and view popular movies on [The Movie Database (TMDB)](https://www.themoviedb.org/)
@@ -37,6 +52,7 @@ The latest APK file is available on the [releases page](https://github.com/cemtu
                 <li>Room</li>
                 <li>Room paging</li>
                 <li>Retrofit</li>
+                <li>RemoteMediator</li>
             </ul>
             <b>Architectural components</b>
             <ul>
