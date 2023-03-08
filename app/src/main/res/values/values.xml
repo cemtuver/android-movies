@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="movie_list_page_size">20</integer>
+    <integer name="movie_list_grid_span_count">3</integer>
+    <bool name="window_light_status_bar">true</bool>
+    <string name="movie_poster_size">w342</string>
+    <string name="movie_backdrop_size">w780</string>
+</resources>
